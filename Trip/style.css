@@ -1,0 +1,26 @@
+body{
+
+    background-color: rgb(193, 193, 239);
+    background-image: url("img7.jpg");
+}
+
+
+
+h1{
+
+    color: red;
+}
+h2{
+
+    color: navy;
+}
+ul{
+
+    color: purple;
+   
+}
+img {
+    width: 600px;
+   
+    margin: 0 auto;
+}
